@@ -12,17 +12,31 @@
 
 I work with a variety of technologies, and here are a few that I'm most comfortable with:
 
-- **Programming Languages**  
-  ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+**Programming Languages**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
+</div>
 
-- **IDEs**  
-  ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) ![IntelliJ](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg)
+**IDEs**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo"  />
+</div>
 
-- **Databases**  
-  ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+**Databases**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
+</div>
 
-- **Design Tools**  
-  ![Illustrator](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg) ![Photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg)
+**Design Tools**  
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="Illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop logo"  />
+</div>
 
 ---
 
