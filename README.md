@@ -1,41 +1,38 @@
-<h1 align="center">Hey there 👋</h1>
+# Hey there 👋 I'm Sanjay!
 
-###
+## About Me
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/sanjay-ragavan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+- 🔭 I’m currently a student, passionate about coding and technology.  
+- 📚 I’m currently learning **Java Programming**.  
+- ⚡ In my free time, I love to **travel** and explore new places.
 
-###
+---
 
-<h3 align="left">👩‍💻  About Me</h3>
+## 🛠️ Languages and Tools
 
-###
+I work with a variety of technologies, and here are a few that I'm most comfortable with:
 
-<p align="left">I'm Sanjay!<br><br>- 🔭 I’m currently Student<br>- 📚 I'm currently learning Java Programming<br>- ⚡ In my free time I travel</p>
+- **Programming Languages**  
+  ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
 
-###
+- **IDEs**  
+  ![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) ![IntelliJ](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg)
 
-<h3 align="left">🛠 Language and tools</h3>
+- **Databases**  
+  ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
 
-###
+- **Design Tools**  
+  ![Illustrator](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg) ![Photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-</div>
+---
 
-###
+## Connect with Me
+
+Feel free to connect with me on **[LinkedIn](https://www.linkedin.com/in/sanjay-ragavan/)**!  
+You can find me here:
+
+[![LinkedIn Badge](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/sanjay-ragavan/)
+
+---
+
+## Let's Build Cool Things! 🚀
