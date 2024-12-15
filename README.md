@@ -44,8 +44,14 @@ I work with a variety of technologies, and here are a few that I'm most comforta
 
 Feel free to connect with me on any of the following platforms:  
 
-[![LinkedIn Badge](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/sanjay-ragavan/)  
-[![Medium Badge](https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=black&logoColor=white&labelColor=&style=for-the-badge)](https://sanjay-ragavan.medium.com/)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/sanjay-ragavan/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://sanjay-ragavan.medium.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&style=flat-square" alt="Medium Badge" />
+  </a>
+</p>
 
 📧 **Email**: [sanjayragavan27@gmail.com](mailto:sanjayragavan27@gmail.com)
 
